@@ -1,3 +1,17 @@
-/*
- * Estilos reutilizables
- */
+.width-80 {
+  width: 80%;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.main-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-center {
+  display: flex;
+  justify-content: center;
+}
