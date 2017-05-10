@@ -1,4 +1,8 @@
 /** Estilos reutilizables **/
+.width-100 {
+  width: 100%;
+}
+
 .width-85 {
   width: 85%;
 }
@@ -28,14 +32,27 @@
   flex-direction: row;
 }
 
-.pad-15 {
-  padding: 15px;
+.font-09 {
+  font-size: 0.9rem;
+}
+
+.font-15 {
+  font-size: 1.5rem;
 }
 
 .font-17 {
   font-size: 1.7rem;
 }
 
-.font-09 {
-  font-size: 0.9rem;
+.font-42 {
+  font-size: 4.2rem;
+}
+
+.pad-15 {
+  padding: 15px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
 }
