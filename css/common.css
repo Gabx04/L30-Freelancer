@@ -1,9 +1,11 @@
-.width-80 {
-  width: 80%;
+/** Estilos reutilizables **/
+.width-85 {
+  width: 85%;
 }
 
 .uppercase {
   text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .main-between {
@@ -14,4 +16,26 @@
 .main-center {
   display: flex;
   justify-content: center;
+}
+
+.cross-center {
+  display: flex;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.pad-15 {
+  padding: 15px;
+}
+
+.font-17 {
+  font-size: 1.7rem;
+}
+
+.font-09 {
+  font-size: 0.9rem;
 }
