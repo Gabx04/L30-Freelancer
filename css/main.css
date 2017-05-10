@@ -27,6 +27,10 @@ header {
   height: 700px;
 }
 
+.height-590 {
+  height: 590px;
+}
+
 li {
   list-style: none;
 }
@@ -36,6 +40,9 @@ a {
   color: inherit;
 }
 
+h2 {
+  font-size: 2.5rem;
+}
 .row .pad-15:hover {
   color: #18bc9c;
 }
@@ -45,7 +52,13 @@ a {
   padding-top: 180px;
 }
 
-#potfolio {
-  background-color: #ffff00;
+#portfolio {
+  background-color: #ffffff;
   color: #000000;
+  padding: 100px 0;
+}
+
+.cont-image {
+  width: 360px;
+  height: 260px;
 }
