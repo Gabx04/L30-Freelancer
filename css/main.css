@@ -43,11 +43,12 @@ a {
 h2 {
   font-size: 2.5rem;
 }
-.row .pad-15:hover {
+
+header .row .pad-15:hover {
   color: #18bc9c;
 }
 
-#start-bootstrap {
+#start-bootstrap, #about {
   background-color: #18bc9c;
   padding-top: 180px;
 }
@@ -58,7 +59,27 @@ h2 {
   padding: 100px 0;
 }
 
+#about {
+  background-color: #18bc9c;
+  padding: 100px 0;
+}
+
 .cont-image {
   width: 360px;
   height: 260px;
+}
+
+#about .width-53{
+  font-size: 1.2rem;
+}
+
+.line-he {
+  line-height: 1.8rem;
+}
+
+.but {
+  border: 2px #ffffff solid;
+  border-radius: 5px;
+  padding: 15px;
+  font-size: 1.2rem;
 }

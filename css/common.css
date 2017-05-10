@@ -7,6 +7,10 @@
   width: 85%;
 }
 
+.width-53 {
+  width: 53%;
+}
+
 .uppercase {
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
@@ -20,6 +24,11 @@
 .cross-between {
   display: flex;
   align-items: space-between;
+}
+
+.main-around {
+  display: flex;
+  justify-content: space-around;
 }
 
 .wrap {
