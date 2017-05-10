@@ -11,6 +11,10 @@
   width: 53%;
 }
 
+.width-33 {
+  width: 33.333%
+}
+
 .uppercase {
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
